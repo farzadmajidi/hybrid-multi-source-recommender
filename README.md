@@ -1,16 +1,11 @@
-# hybrid-multi-source-recommender
-Hybrid multi-source recommendation system using machine learning
+# Designing a Multi-source Recommender System Based on Sentiment Analysis, Social Trust, and Visual Features to Overcome the Cold Start Problem
+# Dilshad Mohammed Shakkur1 ,  keyhan khamforoosh*2,  Farsad Zamani Boroujeni3
 
+1,3 Department of Computer Engineering, SR.C., Islamic Azad University, Tehran, Iran
+2 Department of Computer Engineering, Sa.C., Islamic Azad University, Sanandaj, Iran
 
-# Dilshad Mohammed Shakkur
-Department of Computer Engineering, SR.C., Islamic Azad University, Tehran, Iran
-#
-Dataset Path
+# Dataset Path
 To run the project correctly on Kaggle, use the following dataset path:
-
-/kaggle/input/yelp-complete-open-dataset-2024
-Kaggle Dataset / Competition
-
 #Dataset source:
 
 https://www.kaggle.com/competitions/yelp-recruiting
