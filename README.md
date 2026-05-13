@@ -11,7 +11,7 @@ To run the project correctly on Kaggle, use the following dataset path:
 /kaggle/input/yelp-complete-open-dataset-2024
 Kaggle Dataset / Competition
 
-Dataset source:
+#Dataset source:
 
 https://www.kaggle.com/competitions/yelp-recruiting
 
