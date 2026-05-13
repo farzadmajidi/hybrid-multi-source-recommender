@@ -4,7 +4,7 @@ Hybrid multi-source recommendation system using machine learning
 
 # Dilshad Mohammed Shakkur
 Department of Computer Engineering, SR.C., Islamic Azad University, Tehran, Iran
-# ّ ب
+#
 Dataset Path
 To run the project correctly on Kaggle, use the following dataset path:
 
